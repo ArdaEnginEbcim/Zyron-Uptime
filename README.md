@@ -42,4 +42,4 @@ client.login("TOKEN");
 * `Shift + F11` -> step out
 
 ## Links
-* [Glitch](https://glitch.com/~zyron-uptime)
+* [Glitch](https://glitch.com/~meska-zyron-uptime)
