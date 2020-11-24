@@ -24,19 +24,9 @@ $ npm run start
 ```
 
 ## 👍 Start Bot (Glitch.com)
-- Tools > Import and Export > Download Project 
-- Unpacking > Open a file > Shift + right click > CMD or Powershell Open Here
 - Edit line 6 in the main file
 ```js
 client.login("TOKEN");
-```
-- Install required Packpages
-```bash
-$ npm i
-```
-- Start
-```bash
-$ npm run start
 ```
 
 ## 📺 Main File
