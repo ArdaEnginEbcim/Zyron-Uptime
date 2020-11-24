@@ -1,6 +1,6 @@
 # Zyron-Uptime
 
-## 👍 Start Bot (GitHub)
+## 👍 Start Bot
 - Clone repo
 ```bash
 $ git clone https://github.com/ArdaEnginEbcim/Zyron-Uptime.git
@@ -21,12 +21,6 @@ $ npm i
 - Start
 ```bash
 $ npm run start
-```
-
-## 👍 Start Bot (Glitch.com)
-- Edit line 6 in the main file
-```js
-client.login("TOKEN");
 ```
 
 ## 📺 Main File
