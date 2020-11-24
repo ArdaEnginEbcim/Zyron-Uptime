@@ -10,7 +10,7 @@ $ git clone https://github.com/ArdaEnginEbcim/Zyron-Uptime.git
 $ cd Zyron-Uptime
 ```
 - Fill in the blanks correctly
-Edit line 6 in the master file
+Edit line 6 in the main file
 ```js
 client.login("TOKEN");
 ```
