@@ -1,39 +1,32 @@
-# Zyron-Uptime
+# Discord-Tutorial-Bot
+[![meska](https://github-readme-stats.vercel.app/api/pin/?username=ArdaEnginEbcim&repo=Zyron-Uptime&theme=dark)](https://github.com/ArdaEnginEbcim/Zyron-Uptime)
 
-## 👍 Start Bot
-- Clone repo
-```bash
-$ git clone https://github.com/ArdaEnginEbcim/Zyron-Uptime.git
-```
-- Open a file
-```bash
-$ cd Zyron-Uptime
-```
-- Fill in the blanks correctly
-Edit line 6 in the main file
-```js
-client.login("TOKEN");
-```
-- Install required Packpages
-```bash
-$ npm i
-```
-- Start
-```bash
-$ npm run start
-```
+## Requirements
+- Discord Bot Token [Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)
 
-## 📺 Main File
-- `./zyronup.js`
+## 🤝 Contributing
+- [Fork the repository](https://github.com/ArdaEnginEbcim/Discord-Tutorial-Bot/fork)
+- Clone your fork: git clone https://github.com/your-username/Discord-Tutorial-Bot.git
+- Create your feature branch: `git checkout -b my-new-feature`
+- Commit your changes: `git commit -am 'Add some feature'`
+- Push to the branch: `git push origin my-new-feature`
+- Submit a pull request
 
-## 🌐 Debug with VSCode (Windows)
-* `F5` -> start
-* `Shift + F5` -> stop
-* `Ctrl + Shift + B` -> run build task
-* `F9` -> toggle breakpoint
-* `F10` -> step over
-* `F11` -> step into
-* `Shift + F11` -> step out
+## Glitch Remix
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/ArdaEnginEbcim/Zyron-Uptime)
 
-## Links
-* [Glitch](https://glitch.com/~meska-zyron-uptime)
+## Replit
+[Remix on Replit](https://repl.it/github/ArdaEnginEbcim/Zyron-Uptime)
+
+## 💸 Donation 
+- Papara: 1848656156
+- TR IBAN: TR82 0006 4000 0013 2040 0585 91
+
+## 📝 Contact 
+- Discord: ⚶ Meska 🍁#0001 (`324146816322895873`)
+- Mail: developer.meska@gmail.com
+
+## License
+
+- This repo is under the Apache-2.0 License.
+See [LICENSE](https://github.com/ArdaEnginEbcim/Zyron-Uptime/blob/master/LICENSE) File.
